@@ -7,4 +7,4 @@ Module used:
 Command to download module:
   - pip install pygame
   
-For output referance please visit the Instagram page: @python_projects_
+For output referance please visit the Instagram page: https://www.instagram.com/hack_smashes/
